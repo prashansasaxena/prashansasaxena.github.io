@@ -1,0 +1,109 @@
+header{
+	background-color:rgb(150,100,100);
+	width:100%;
+	height:100px;
+	border-radius:5%;
+}
+span{
+	display:inline-block;
+	width:100px;
+	padding:10px;
+	top:0;
+	left:100px;
+	margin:30px;
+	text-align:center;
+	border:2px solid white;
+	background-color:white;
+	font-family: 'Stylish', sans-serif;
+	border-radius:20px;
+	outline-color:rgb(150,100,100);
+}
+span:hover{
+background-color:rgb(150,100,100);
+border-color:rgb(150,100,100);
+}
+.main{
+	
+	margin-top:20px;
+	
+	
+}
+
+.ele{
+	display:inline-block;
+	width:250px;
+	height:250px;
+	margin:30px;
+	border-radius:30px;
+	border:2px solid rgb(150,100,100);
+	position: relative;
+	padding-left:10px;
+}
+
+#imgc{
+	height:70px;
+	width:70px;
+	position: absolute;
+	top:10px;
+	right:10px;
+}
+
+#html{
+	background-image:url(./images/html.jpg) ;
+	opacity:50%;
+     font-size: 20px;
+     background-size: cover;
+     border-color: white;
+     background-blend-mode: screen;
+}
+ h1{
+	top:0;
+	font-family: 'Barriecito', cursive;
+	
+}
+#CSS{
+background-image:url(./images/css1.jpg);
+opacity:50%;
+     font-size: 20px;
+     background-size: cover;
+     border-color: white;
+}
+
+#java{
+	background-image:url(./images/java.jpg);
+opacity:50%;
+     font-size: 20px;
+     background-size: cover;
+     border-color: white;
+     background-blend-mode: screen;
+}
+#javascript{
+	background-image: url(./images/javascript.jpg);
+opacity:50%;
+     font-size: 20px;
+     background-size: cover;
+     border-color: white;
+     background-blend-mode: screen;
+}
+#angular{
+	background-image: url(./images/angular7.jpg);
+opacity:50%;
+     font-size: 20px;
+     background-size: cover;
+     border-color: white;
+     background-blend-mode: screen;
+}
+#python{
+	background-image: url(./images/python.jpg);
+opacity:20%;
+     font-size: 20px;
+     background-size: cover;
+     border-color: white;
+     background-blend-mode: screen;
+}
+p{
+font-family: 'Concert One', cursive;
+position:absolute;
+bottom:30px;
+
+}
